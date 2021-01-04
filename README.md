@@ -1,3 +1,5 @@
+NOTE: This is a test repo used for experiments
+
 # Worker [![Build Status](https://travis-ci.org/travis-ci/worker.svg?branch=master)](https://travis-ci.org/travis-ci/worker)
 
 Worker is the component of Travis CI that will run a CI job on some form of
